@@ -12,11 +12,11 @@ The finished notebook will have all the inputs, outputs and graphs form followin
 
 BE SURE to commit at the end of every subsection, and push just about as often. Remember, commits and pushes are _FREE_ so use them liberally!
 
-So to be clear, move through Chpater 5, typing in the inputs, running the code, getting the output. Add *Markdown Cells* when you want to comment a section or subsection.
+So to be clear, move through Chapter 5, typing in the inputs, running the code, getting the output. Add *Markdown Cells* when you want to comment a section or subsection.
 
 Submit the lab when you're done.
 
-## Coding The Hard Way.
+## Coding The Hard Way
 
 Zed A. Shaw is a popular author of several books where he
 describes learning a programming language The Hard Way.
