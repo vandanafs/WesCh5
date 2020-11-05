@@ -1,8 +1,9 @@
-# WesCh5
+# WesCh5 Getting Started with pandas
+
 notebook for ch5
 
 
-This lab is a repo for your work on Wes McKinney's book "Python for Data Analysis, 2nd Ed." in Chapter 5.
+This lab is a repo for your work on Wes McKinney's book "Python for Data Analysis, 2nd Ed." in Chapter 5, _Getting Started with pandas_.
 
 As for each of the chapters in this series, I want you follow the "Coding The Hard Way" methodology. (See Below)
 
